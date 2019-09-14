@@ -1,0 +1,1 @@
+{"jobID":"330b3031-6055-e7fc-bbbf-731b166ed001","spec":{"type":"policy","cause":{"Message":"","User":"Chirs Maree \u003cchristopher.maree@gmail.com\u003e"},"spec":{"default:deployment/incentives-api":{"add":{"automated":"true"},"remove":null}}},"result":null}
